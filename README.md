@@ -156,7 +156,7 @@ Sample PUT Request Body :
 }
 ```
 
-Sample Response after successful POST/ additional : 
+Sample Response after successful PUT/ updating : 
 
 ```bash
 {

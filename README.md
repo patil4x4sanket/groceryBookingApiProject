@@ -197,9 +197,35 @@ Sample Response after successful POST/ additional :
 ```
 
 
+----------------------------------------------------------------
+
+
+
+## Tech Stack
+
+**Backend :** Java : 8
+
+**Framework for Rapid Development :** Spring Boot : 2.4.1
+
+**Dependency Management :** Maven : 3.8.1
+
+**Database :** MySQL : 5.7
+
+**Server :** Docker 
+
 
 ----------------------------------------------------------------
 
+## Support
+
+For support, email patil4x4sanket@gmail.com
+
+----------------------------------------------------------------
+
+
+## Author
+
+- Sanket Patil : patil4x4sanket@gmail.com
 
 
 

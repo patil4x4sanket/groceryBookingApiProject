@@ -208,7 +208,7 @@ Sample Response after successful POST/ additional :
 
 **Database :** MySQL : 5.7
 
-**Server :** Docker 
+**Containerization Tool :** Docker 
 
 
 ----------------------------------------------------------------

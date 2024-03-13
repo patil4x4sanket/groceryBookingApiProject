@@ -14,11 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- Java 8
-- Maven
-- MySQL
-- Docker
-- Internet Access ;P  (atleast to Docker-Hub, to download mysql image and Public Maven Repository, to download the required maven dependencies) 
+- Docker (should be installed)
+- Internet Access ;P  (atleast to Docker-Hub, to download mysql image and to Public Maven Repository, to download the required maven dependencies) 
 
 
 ----------------------------------------------------------------

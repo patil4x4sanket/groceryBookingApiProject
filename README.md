@@ -1,6 +1,11 @@
 # Grocery Booking API Project
 
 This project is a simple API for booking groceries, built with Java, Spring Boot, and Maven, can be packaged and deployed on Docker.
+The beauty of this project is, you don not have to even Build this project explicity, just run docker-compose up command, and everything will be done internally.
+Once the Application is up and running, the you can play around with the given Set of APIs.
+
+----------------------------------------------------------------
+
 
 ## Getting Started
 
@@ -13,6 +18,9 @@ These instructions will get you a copy of the project up and running on your loc
 - MySQL
 - Docker
 - Internet Access ;P  (atleast to Docker-Hub, to download mysql image and Public Maven Repository, to download the required maven dependencies) 
+
+
+----------------------------------------------------------------
 
 
 ## API References
@@ -189,8 +197,6 @@ Sample Response after successful POST/ additional :
 
 
 
-----------------------------------------------------------------
-----------------------------------------------------------------
 ----------------------------------------------------------------
 
 
